@@ -3,5 +3,7 @@
 
 현재 okhtt3의 버전이 맞지않아 오류가 발생하는거같음.
 
+버전업으로 오류 해결.
+
 
 출처: https://bamdule.tistory.com/266
